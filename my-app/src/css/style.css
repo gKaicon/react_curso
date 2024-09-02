@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+}
+
+.App{
+    background-color: rgba(226, 215, 215, 0);
+}
+
+.task-item{
+    background-color: rgba(185, 179, 179, 0.581);
+}
