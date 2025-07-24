@@ -1,94 +1,38 @@
-# Anotação do desenvolvedor
+# React para Iniciantes
 
-1.Ferramentas Necessárias: Google Chrome, GitHub, Codeasandbox.io
+![capa react para iniciantes](https://i.imgur.com/6wAP26W.jpg)
 
-2.hello world
+React Kanban Board criado totalmente do zero durante o curso [React para Iniciantes](https://www.udemy.com/course/react-para-iniciantes-free/)
 
-3.Introdução JS
+## Objetivo do Curso
 
-4.Renderizando Elementos
+Se você sempre quis aprender a criar aplicações web modernas e dinâmicas, o React vai te ajudar a ser 10 vezes mais produtivo. Nesse curso, aprenderemos todos os fundamentos sólidos do React.
+  
+E o melhor de tudo, durante todas as aulas, você aplicará todos os conhecimentos na criação de uma aplicação feita totalmente do zero. Iremos construir um Kanban Board, onde você poderá:
 
-5.Componentes React
+- Adicionar tarefas na lista
+- atualizar tarefas já adicionadas
+- deletar tarefas indesejadas
+- mover tarefas entre listas
+- Ter uma aplicação online que pode ser colocada em seu portfólio.
 
-6.Hooks
+E durante a criação de cada funcionalidade citada acima, você irá aprender o conceitos fundamentais do React que são necessários para criar todas as aplicações React utilizadas por grandes empresas como o Facebook, Twitter, Instagram e WhatsApp.
 
-7.Gerenciamento de estado
+Os principais conceitos explorados serão:
 
-8.States e props
+- Ferramentas Necessárias
+- Hello World em React
+- Introdução ao JSX
+- Renderizando Elementos
+- Componentes React
+- Estilizando componentes com CSS
+- Hooks
+- Gerenciamento de Estado
+- State e Props
+- Renderização Condicional
+- Eventos em React
+- Renderizando Listas
 
-9.Renderização condicional
+Ao final do curso, você possuirá uma aplicação completa para colocar em seu portfólio de desenvolvedor e até utilizar o código fonte como base para suas futuras aplicações e entrevistas de trabalho.  
 
-10.eventos react
-
-11.rederizanção listas
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Faça o curso agora. é totalmente FREE!](https://www.udemy.com/course/react-para-iniciantes-free/)
