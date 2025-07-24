@@ -1,5 +1,7 @@
-import React, { useState } from "react";
+import "./App.css";
 import "./styles.css";
+
+import React, { useState } from "react";
 
 import Navbar from "./components/Navbar/Navbar";
 import TaskList from "./components/TaskList/TaskList";
